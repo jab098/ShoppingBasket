@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Shopping Basket\Shopping Basket\bin\Debug\Shopping Basket.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\bin\Debug\Shopping Basket.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\bin\Debug\Shopping Basket.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping Basket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping_Basket.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping_Basket.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping Basket.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping Basket.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping Basket.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Shopping Basket\Shopping Basket\obj\Debug\Shopping_Basket.Edit.resources
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\bin\Debug\Shopping Basket.exe.config
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping Basket.exe
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping Basket.pdb
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\bin\Debug\Shopping Basket.exe
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\bin\Debug\Shopping Basket.pdb
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping Basket.csprojResolveAssemblyReference.cache
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping_Basket.Edit.resources
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping_Basket.Form1.resources
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping_Basket.Properties.Resources.resources
+C:\Users\7238623\Documents\Visual Studio 2015\Projects\Shopping BasketN\Shopping Basket\obj\Debug\Shopping Basket.csproj.GenerateResource.Cache
